@@ -1,0 +1,14 @@
+scapy
+requests
+beautifulsoup4
+nmap
+shodan
+python-whois
+cryptography
+pycryptodome
+colorama
+dnspython
+pyfiglet
+pandas
+numpy
+rich
